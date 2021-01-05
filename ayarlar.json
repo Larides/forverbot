@@ -1,0 +1,50 @@
+{
+  "prefix" : ".",
+  
+  "sahip" : "325786549406924801",
+  
+  "token" : "Nzk1MjM1NTA2NzIzNzQ5OTA4.X_Gaxw.542CPge6VkIR5DGqHhbs4hcgrG8",
+  
+  "botVoiceChannelID" : "795233944538447907",
+  
+  "Guild" : "794010433215266836",
+   
+  
+  "tag" : "GAY",
+  "nick" : "İsim | Yaş" ,
+  
+  
+  "booster" : "795235288347181057",
+  
+  
+  "YaşLimit" : 13 ,
+  
+  
+  
+  "erkek1": "795234177985413121",
+  "erkek2" : "795234289935056916",
+  "kadın1" : "795234288617390111",
+  "kadın2" : "795234290312675340",
+  "unregister" : "795234291239354398",
+  "jailRol" : "JAİL ROL İD",
+  "şüpheli" : "ŞÜPHELİ ROL İD",
+  "tagRol" : "TAG ROL İD",
+  
+  
+  
+
+  "KayıtYetkilisi" : ["795234278299402290"] ,
+  "üstYetkiliRolü" : ["üST YETKİLİSİ İD LERİ"] ,
+
+  
+  
+  
+  
+  "genelChat" : "795577192209711125",
+  "kayitLog" : "795234600716075008",
+  "KayıtChat" : "795577192209711125",
+  "tagLog" : "TAG LOG İD"
+ 
+  
+  
+}
